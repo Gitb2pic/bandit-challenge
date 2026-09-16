@@ -1,0 +1,13 @@
+# Garde-fou : ne jamais committer de flags ou de clés
+flags*
+*flag*.txt
+.secrets/
+*.key
+*.pem
+id_rsa*
+private*
+
+# Système
+.DS_Store
+*~
+*.swp
