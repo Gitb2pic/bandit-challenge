@@ -17,7 +17,7 @@ Le mot de passe est dans le fichier -. Il est ce trouve dans le repertoire perso
    ```bash
    ls 
    -
-   cat ./
+   cat ./ # tu dis explicitement à la commande : "Lis le fichier nommé - qui se trouve à l'intérieur de mon dossier actuel"
    flag level 2
    ```
 
