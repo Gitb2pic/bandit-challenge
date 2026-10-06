@@ -15,7 +15,10 @@ Le mot de passe est dans le fichier -. Il est ce trouve dans le repertoire perso
 1. **Pour affichier le fichier -  il faut utilise les chemin relatif.** 
 
    ```bash
+   ls 
+   -
    cat ./
+   flag level 2
    ```
 
 ## Commandes clés
